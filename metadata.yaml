@@ -1,0 +1,42 @@
+_repo: Gesichte-Essays-und-andere-Geschichten_53239
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lasker-Schüler, Else
+    aliases:
+    - Walden, Else Schüler
+    - Lasker, Else Schüler
+    - Lasker-Schuler, Else
+    birthdate: 1869
+    deathdate: 1945
+    gutenberg_agent_id: '37171'
+    url: http://www.gutenberg.org/2009/agents/37171
+description: ''
+gutenberg_issued: '2016-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53239'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature -- 20th century'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: Sterndeuterei -- Handschrift -- Johann Hansen und Ingeborg Coldstrup
+  -- Künstler -- In der Morgenfrühe -- Elberfeld im dreihundertjährigen Jubiläumsschmuck
+  -- Arme Kinder reicher Leute -- Am Kurfürstendamm -- Die beiden weißen Bänke vom
+  Kurfürstendamm -- Die Odenwaldschule -- Lasker-Schüler contra B. und Genossen --
+  Coranna -- Die schwere Stunde -- Peter Hille -- Karl Kraus -- Loos -- Oskar Kokoschka
+  -- Peter Baum -- Franz Werfel -- S. Lublinski -- Paul Leppin -- Richard Dehmel --
+  Max Brod -- Alfred Kerr -- Bei Guy de Maupassant -- Albert Heine -- Karl Vogt --
+  Paul Lindau -- Bei Julius Lieban -- Friedrich von Schennis -- Tilla Durieux -- Paul
+  Zech -- Rudolf Blümner -- William Wauer -- Wauer-Walden via München und so weiter
+  -- Emmy Destinn -- Franziska Schultz -- Kete Parsenow -- Ruth -- Unser Café -- Marie
+  Böhm -- Der Alpenkönig und der Menschenfeind -- Egon Adler -- Ein Amen -- Wenn mein
+  Herz gesund wär — -- Der Eisenbahnräuber -- Im neopathetischen Kabarett -- Kabarett
+  Nachtlicht, Wien -- Apollotheater -- Tigerin, Affe und Kuckuck -- Im Zirkus -- Zirkuspferde
+  -- Zirkus Busch.
+title: 'Gesichte: Essays und andere Geschichten'
+url: http://www.gutenberg.org/ebooks/53239
